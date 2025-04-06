@@ -2,6 +2,10 @@
 My aim is to create a centralized place where resources and classes can be homogenized.
 
 *please report broken links, and feel free to contribute*
+
+### sources
+ - Jon Kuperman's Website Accessibility, v3 at [FrontendMasters](https://frontendmasters.com/)
+
 ## Resources and Practices
 
 ### Test with a screen reader
